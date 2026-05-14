@@ -1,6 +1,12 @@
-
 ## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
+
+
+### 📅 2026-05-14 13:23 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.9.25.apk](https://github.com/alex-b-03/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.25.apk) `18.6MB`
+
+---
+
 
 
 ### 📅 2026-05-13 20:35 IR
